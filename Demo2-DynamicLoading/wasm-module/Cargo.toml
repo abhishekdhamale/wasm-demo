@@ -1,0 +1,10 @@
+[package]
+name = "wasm-module"
+version = "0.1.0"
+authors = ["Abhishek Dhamale <dhamale.abhishek@gmail.com>"]
+edition = "2018"
+
+[lib]
+crate-type = ["cdylib"]
+
+
